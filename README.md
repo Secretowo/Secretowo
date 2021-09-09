@@ -1,6 +1,6 @@
 <h1>Hi, I’m Secret</h1>
 
-<h3>DISCLAIMER: I'm new to GitHub, so if i make a mistake please let me know!</h3>
+<h3>DISCLAIMER: I'm new to GitHub, so if i make any mistakes please let me know!</h3>
 
 I love electronics and, of course, programming (mainly in python, but i can improvise well. (at least i think so)).
 Im currently working on a couple of projects but im too busy to get actual motivation for them.
@@ -14,4 +14,4 @@ Telegram: https://t.me/secretowo
 
 Discord: `Secret#6986`
 
-Email: whatever@secco.dev
+Email: github@secco.dev
